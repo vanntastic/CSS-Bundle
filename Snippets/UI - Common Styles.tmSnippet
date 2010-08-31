@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/*** Font Styles ***/
+.big { font: 16px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif; }
+.med { font: 12px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif; }
+.small { font: 10px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif; }
+
+/*** Block Styles ***/
+.left { float: left;}
+.right { float: right; }</string>
+	<key>name</key>
+	<string>UI - Common Styles</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>ui</string>
+	<key>uuid</key>
+	<string>34268161-2635-4FF8-8C0A-5AAF83B2427B</string>
+</dict>
+</plist>

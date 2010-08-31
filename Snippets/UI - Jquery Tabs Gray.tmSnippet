@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/*** JQuery Tabs ***/
+
+.ui-tabs .ui-tabs-hide {
+   display: none;
+}
+
+.tabs{
+  margin-top:15px;
+}
+
+.tabs div{
+  margin:0 10px;
+}
+
+.tabs ul{
+  padding:0 40px;
+  border-bottom:1px solid #ccc;
+}
+
+/* auto clear for modern browsers */
+.tabs ul:after{ 
+  content: "."; 
+  display: block; 
+  height: 0; 
+  font-size:0; 
+  clear: both; 
+  visibility:hidden; 
+}
+
+/* auto clear for the browser that could... this needs the css_browser_select js script */
+.ie .tabs ul{
+  height: 1%;
+  display:block;
+}
+
+.tabs ul li{
+  float:left;
+  padding:5px;
+  margin-left:-12px;
+}
+
+.tabs ul li a{
+  border-top:1px solid #eee;
+  border-left:1px solid #eee;
+  border-right:1px solid #eee;
+  padding:5px;
+  text-decoration: none;
+/*  background-color:#565656;*/
+  color:#565656;
+}
+
+.tabs ul li a:hover, .tabs ul li.ui-tabs-selected a{
+  border-top:1px solid #ccc;
+  border-left:1px solid #ccc;
+  border-right:1px solid #ccc;
+  background:#565656;
+  color:#565656;
+  background:#fff;
+  border-bottom:1px solid #fff;
+}
+
+.tabs ul li.ui-tabs-selected a{
+  font-weight: bold;
+  color:#000;
+}</string>
+	<key>name</key>
+	<string>UI - Jquery Tabs Gray</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>tab</string>
+	<key>uuid</key>
+	<string>C6A877E9-A2BA-40B8-A84A-9F8FE592A83F</string>
+</dict>
+</plist>

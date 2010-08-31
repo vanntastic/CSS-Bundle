@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>content</key>
+		<string>/* Common FORMS styles */
+
+input[type="text"], input[type="password"], textarea{
+  padding: 3px;
+  margin-bottom:5px;
+}
+
+input.big{
+  width: 90%;
+}
+
+textarea{
+  width: 70%;
+  font:1em "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+}
+
+label, .label{
+  font: 1.15em "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+  font-weight:medium;
+}
+
+label.block, input.block{ 
+  display: block; 
+  margin:5px 0;
+}
+
+form.left{float:left;}
+form.middle{text-align: center;}
+form.right{float:right;}
+
+fieldset{
+  border:0;
+  border-top:1px solid #999;
+  padding: 10px;
+}
+
+legend{
+  font: 1.25em "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+  font-weight:bold;
+  color: #2f2f2f;
+}
+
+/* forms stylesheet */ 
+table.data-output{
+	border-top:2px solid #7f7f7f;
+	border-bottom:2px solid #7f7f7f;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table.data-output td{
+	padding: .85em;
+	border-bottom: 1px solid #ccc;
+	border-right:1px solid #ccc;
+}
+
+table.data-output th{
+	background-color:#7f7f7f;
+	padding: 5px;
+	text-align: center;
+	color: #fff;
+}
+
+table.data-output .options{
+	font-size: 10px;
+	text-align: center;
+}
+
+table.data-entry{
+  border: 1px solid #ccc;
+	width: 100%;
+	margin: 10px;
+}
+
+table.data-entry td{
+	border-bottom:1px solid #ccc;
+	background-color:#f2f2f2;
+	padding: .85em; 
+}
+
+/* FONT STYLES */ 
+.big-text{
+	font-size: 18px;
+}
+
+/* colors that you can use for tables and such */ 
+.orange { background-color:#ff6000;color:#fff;}
+.red { background-color:#e22042;color:#fff;}
+.blue { background-color:#000066;color:#fff;}
+.med-blue { background-color:#1d458b;color:#fff;}
+.green { background-color:#007a08;color:#fff;}
+
+/*SUB FORMS*/
+
+.sub-form{
+  padding:1em;
+  background-color: #eee;
+  border: 1px solid #ccc;
+}
+
+.sub-form label{
+  display: block;
+  margin-bottom:.25em;
+}</string>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>0C0361F0-FBFD-4FF1-B7F2-CD01BB4FAEC2</string>
+</dict>
+</plist>

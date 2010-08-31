@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* auto clear for modern browsers */
+${1:element}:after{ 
+  content: "."; 
+  display: block; 
+  height: 0; 
+  font-size:0; 
+  clear: both; 
+  visibility:hidden; 
+}
+
+/* auto clear for the browser that could... this needs the css_browser_select js script */
+.ie ${1:element}{
+  height: 1%;
+  display:block;
+}</string>
+	<key>name</key>
+	<string>Auto clear</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>clear</string>
+	<key>uuid</key>
+	<string>1A238F88-AFEB-4D89-B06D-4B2B2DD9DACA</string>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>hr{
+  background:#ddd none repeat scroll 0%;
+  border: .05em dotted #999;
+  clear:both;
+  color:#ddd;
+  float:none;
+  height:0.1em;
+  margin-left:.5em;
+  margin-top:1.45em;
+  margin-bottom:1.45em;
+  margin-right:1.45em;
+  width:100%;
+}</string>
+	<key>name</key>
+	<string>HR - Dotted Line</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>hr</string>
+	<key>uuid</key>
+	<string>FB7F8216-0199-45DC-B678-BEFCE82A319A</string>
+</dict>
+</plist>

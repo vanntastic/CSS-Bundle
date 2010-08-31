@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>name</key>
+		<string>CSS-Vanns Bundle</string>
+		<key>ordering</key>
+		<array>
+			<string>D81EA4DB-20DC-46D5-8F8D-10D4EBFB0F1E</string>
+			<string>4BBC97CF-C35F-4976-87B5-2F18A1DCCF7F</string>
+			<string>0995A1CA-496B-45D8-BB04-13A6B7D9D5BF</string>
+			<string>F1FFC2E2-09C1-47EE-9F06-3AEE80538D89</string>
+			<string>0162F9E0-7F9F-47A9-9271-A246ACEE929F</string>
+			<string>C6A877E9-A2BA-40B8-A84A-9F8FE592A83F</string>
+			<string>15E9F3D1-F862-4CA3-8BF8-23CD8274F9FB</string>
+			<string>7D12F4B2-A36A-4206-BD5C-6011BBFED9A5</string>
+			<string>E044DFE1-943B-4281-97A5-CECEAABFA302</string>
+			<string>FA321CB2-A886-416B-88C4-BC244D5C2D13</string>
+			<string>36A9F32B-F8B4-431E-A545-83E1E34E6972</string>
+			<string>13964D7D-AC75-4EA1-BACD-9F800D8D6619</string>
+			<string>DFA69A8A-E5A9-481E-AC4E-A31E6F769E2F</string>
+			<string>54C2A594-AA7A-4CA6-81FF-24F3672CED43</string>
+			<string>34268161-2635-4FF8-8C0A-5AAF83B2427B</string>
+			<string>3FBFC8C5-DB37-450A-A047-7823D2B3DBE4</string>
+			<string>76B7C6C8-32F1-4F1F-BF19-E633F619D841</string>
+			<string>0C0361F0-FBFD-4FF1-B7F2-CD01BB4FAEC2</string>
+			<string>311B0B2A-4D5F-4584-AD71-F6A003358F98</string>
+			<string>41A62ADD-4073-4611-82B6-3865528E1C8E</string>
+			<string>38AB111E-13EE-4904-BE6B-300D14FFEC7C</string>
+			<string>0216925C-9C43-492F-827C-3B7680A67BAB</string>
+			<string>1D98C5F8-D628-4F31-9861-0E66ED7D27EA</string>
+			<string>56D18EFF-B946-4902-87FB-9465C70911C7</string>
+			<string>8213B073-7039-4DC2-8861-8DBCE7AC2B87</string>
+			<string>B9DE4572-DF71-4D61-83CC-62CC2B0A0FA5</string>
+			<string>1402040C-E1D1-4C88-9B08-CA38F99833B4</string>
+			<string>EBEF3A48-9CFF-4E68-B1B2-7521BBB2C0BA</string>
+			<string>3CFB4904-0CA5-463B-8D5E-2455D30A164C</string>
+			<string>FB7F8216-0199-45DC-B678-BEFCE82A319A</string>
+			<string>3B8C09D3-A09E-402D-A38B-8E8925179577</string>
+			<string>1A238F88-AFEB-4D89-B06D-4B2B2DD9DACA</string>
+			<string>617566D3-CC9E-4A1D-A789-A0953A3015F7</string>
+		</array>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>8324F7EE-13EB-4A5D-914A-5E7F2F501E25</string>
+</dict>
+</plist>

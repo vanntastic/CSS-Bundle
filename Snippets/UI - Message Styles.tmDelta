@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>content</key>
+		<string>/* stylesheets for messages */ 
+
+.notice-msg{
+  margin: 1em;
+  padding: 5px;
+  text-align: center;
+  border: 2px solid #979981;
+  background-color: #eaedc8;
+  color: #000;
+  font-size: 13px;
+}
+
+.error-msg{
+  margin: 1em;
+  padding: 5px;
+  text-align: center;
+  border: 2px solid #e22042;
+  background-color: #eaedc8;
+  color: #e22042;
+  font-size: 13px;
+}
+
+
+/*required styles for errors*/
+div.errorExplanation{
+  border:1px solid #FF0000;
+  background-color:#fbfbfa;
+  padding: 10px;
+  margin:10px;
+}
+
+div.errorExplanation ul{
+  padding: 5px 30px;
+  list-style: square outside;
+}
+
+
+div.errorExplanation h2, div#errorExplanation h2{
+  background-color:#FF0000;
+  color:#fff;
+  margin:-10px -10px 10px -10px;
+  padding:3px;
+  color:#fff;
+  font-size:14px;
+}
+
+div.errorExplanation p{
+  margin:5px;
+}
+
+div.errorExplanation ul{
+  font-size:.75em;
+}
+
+div.fieldWithErrors{
+  border-left:5px solid #FF0000;
+}
+  
+</string>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>36A9F32B-F8B4-431E-A545-83E1E34E6972</string>
+</dict>
+</plist>
