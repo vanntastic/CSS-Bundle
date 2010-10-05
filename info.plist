@@ -8,10 +8,12 @@
 		<string>CSS-Vanns Bundle</string>
 		<key>ordering</key>
 		<array>
+			<string>4D50C9FF-99C8-498E-8E23-DAE106DB2BCF</string>
 			<string>D81EA4DB-20DC-46D5-8F8D-10D4EBFB0F1E</string>
 			<string>4BBC97CF-C35F-4976-87B5-2F18A1DCCF7F</string>
 			<string>0995A1CA-496B-45D8-BB04-13A6B7D9D5BF</string>
 			<string>F1FFC2E2-09C1-47EE-9F06-3AEE80538D89</string>
+			<string>C144603C-A106-4379-8409-CC1AF5667CB5</string>
 			<string>0162F9E0-7F9F-47A9-9271-A246ACEE929F</string>
 			<string>C6A877E9-A2BA-40B8-A84A-9F8FE592A83F</string>
 			<string>15E9F3D1-F862-4CA3-8BF8-23CD8274F9FB</string>
@@ -41,6 +43,9 @@
 			<string>3B8C09D3-A09E-402D-A38B-8E8925179577</string>
 			<string>1A238F88-AFEB-4D89-B06D-4B2B2DD9DACA</string>
 			<string>617566D3-CC9E-4A1D-A789-A0953A3015F7</string>
+			<string>71698C30-F093-4B78-AA7D-49478BA5312E</string>
+			<string>549EA955-282B-4BD4-9746-C96064B6CE1D</string>
+			<string>E67E0908-7DEE-47FD-B3A8-7FB51BAEE500</string>
 		</array>
 	</dict>
 	<key>deleted</key>
