@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* keep an element anchored to the bottom */
+bottom:0;
+position:absolute;
+width:100%;</string>
+	<key>name</key>
+	<string>Element anchor bottom</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>bottom</string>
+	<key>uuid</key>
+	<string>4D50C9FF-99C8-498E-8E23-DAE106DB2BCF</string>
+</dict>
+</plist>
